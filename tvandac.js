@@ -3,7 +3,7 @@ status = "";
 objects = [];
 
 function preload() {
-    img = loadImage('bedroom.jpg');
+    img = loadImage('tvandac.jpg');
 }
 
 function setup() {
